@@ -1,115 +1,192 @@
-<h1 align="center">Hi 👋, I'm Fahmeedha Mahaboob</h1>
-<h3 align="center">B.E. Computer Science & Engineering Student</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/fahmeedha12">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%2F+ML+Enthusiast;CS+Engineering+Student+(2028);Passionate+Problem+Solver" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fahmeedha%20Mahaboob&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Learning+Full+Stack+Development;Exploring+Artificial+Intelligence;Building+AI+Powered+Applications;Turning+Ideas+Into+Real+Projects;Learn+%7C+Build+%7C+Share+%7C+Improve" alt="Typing SVG"/>
 
-## 💫 About Me
+<br><br>
 
-I am a third-year Computer Science Engineering student interested in full-stack web development and Artificial Intelligence/Machine Learning. I enjoy building practical web applications and AI-powered projects while continuously improving my programming and problem-solving skills.
+<img src="https://img.shields.io/badge/EDUCATION-B.E.%20Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%7C%20AI%2FML-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-India-4C1D95?style=for-the-badge"/>
 
-- 🎓 **Degree:** B.E. Computer Science and Engineering (Third Year / Pre-final Year)
-- 🏫 **College:** Einstein College of Engineering, Tirunelveli
-- 🗓️ **Expected Graduation:** 2028
-- 📍 **Location:** India
-- 🎯 **Career Goal:** To build a career as a software developer specializing in full-stack development and AI/ML.
+<br><br>
 
----
+<a href="https://linkedin.com/in/fahmeedhamahaboob12">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 📚 Currently Learning
+<a href="mailto:fahmeedhamahaboob8@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 🚀 **Full-Stack Development** (React, Node.js, Express.js, MongoDB)
-- 🤖 **Artificial Intelligence & Machine Learning** (AIML, Pandas, NumPy, Scikit-learn, Streamlit)
+<a href="https://github.com/fahmeedha12">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🤖 AI / ML
-![AIML](https://img.shields.io/badge/AIML-FF6F00?style=for-the-badge&logo=brain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👩‍💻 About Me
 
-### 🏥 [Smart Health Risk Prediction](https://github.com/fahmeedha12/Smart-Health-Risk-Prediction)
-AI-powered healthcare risk prediction system built with Python, Scikit-Learn, Streamlit, Pandas, and Plotly.
+```yaml
+name: Fahmeedha Mahaboob
+education: B.E. Computer Science and Engineering
+college: Einstein College of Engineering, Tirunelveli
+status: Third Year / Pre-final Year
 
-### 🤖 [AI Interview Platform](https://github.com/fahmeedha12/AI-Interview-Platform)
-AI-powered interview preparation platform built using React, Node.js, Express, and Gemini AI.
+role:
+  - Computer Science Engineering Student
+  - Full Stack Developer
+  - AI/ML Enthusiast
 
-### 🎓 [Student Management System](https://github.com/fahmeedha12/Student-Management-System)
-Full-stack Student Management System built with Spring Boot, MySQL, HTML, CSS, JavaScript, and Bootstrap, featuring CRUD operations, search, CSV export, dark/light mode, and a responsive UI.
+focus:
+  - React
+  - Java
+  - Python
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
 
-### 🌾 [AgriGuard – Smart Farmer Weather Assistant](https://github.com/fahmeedha12/AgriGuard-Smart-Farmer-Weather-Assistant)
-Smart farmer weather assistant providing real-time weather insights, crop safety analysis, and farming recommendations using OpenWeather API.
+currently_learning:
+  - MERN Stack
+  - Advanced React
+  - Backend Development
+  - AI/ML
 
-### 📊 [Virtual Data Science Python Apprentice Internship](https://github.com/fahmeedha12/Virtual-Data-Science-Python-Apprentice-Internship)
+mindset:
+  Learn → Build → Share → Improve
 
-### 💻 [Fahmeedha Portfolio](https://github.com/fahmeedha12/Fahmeedha-portfolio)
-Portfolio website showcasing my projects, technical skills, achievements, and interests.
+I am a third-year Computer Science Engineering student interested in building practical web applications and AI-powered projects.
 
----
+I enjoy learning new technologies, developing real-world projects, and continuously improving my programming and problem-solving skills.
 
-## 📊 GitHub Statistics
+🛠️ Tech Stack
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=java,python,js,html,css"/> </p>
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,spring"/> </p>
+🗄️ Database
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql"/> </p>
+🤖 AI / ML
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmeedha12&show_icons=true&theme=radical&hide_border=true" alt="Fahmeedha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmeedha12&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+Python Pandas NumPy Scikit-Learn Streamlit Plotly
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmeedha12&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+🔧 Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode"/> </p>
+🌱 My Learning Journey
+Computer Science
+       ↓
+Programming
+       ↓
+Web Development
+       ↓
+Frontend Development
+       ↓
+Backend Development
+       ↓
+Full Stack Development
+       ↓
+Artificial Intelligence & ML
+       ↓
+Real World Projects
+       ↓
+Professional Growth
 
----
+Learn → Build → Share → Improve
 
-## 📬 Connect with Me
+🚀 Featured Projects
+🤖 Project 01 — AI Interview Platform
 
-<p align="left">
-  <a href="https://linkedin.com/in/fahmeedhamahaboob12" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:fahmeedhamahaboob8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/fahmeedha12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+A full-stack web application designed to simulate interview experiences with dedicated user, interview and result workflows.
+
+Tech Stack:
+React JavaScript Node.js Express AI
+
+Repository:
+AI-Interview-Platform
+
+🏥 Project 02 — Smart Health Risk Prediction
+
+A machine learning healthcare application that analyzes patient data and identifies potential health risks.
+
+Tech Stack:
+Python Pandas NumPy Scikit-Learn Streamlit Plotly
+
+Repository:
+Smart-Health-Risk-Prediction
+
+🎓 Project 03 — Student Management System
+
+A web-based application for managing student information, academic records and database-related operations.
+
+Tech Stack:
+Java HTML CSS JavaScript MySQL
+
+Repository:
+Student-Management-System
+
+🌱 Project 04 — AgriGuard
+
+AgriGuard – Smart Farmer Weather Assistant
+
+A smart agriculture-focused application designed to assist farmers with weather-related information and support better agricultural decision-making.
+
+Tech Stack:
+Python AI/ML Weather API Web Development
+
+Repository:
+AgriGuard-Smart-Farmer-Weather-Assistant
+
+📝 Project 05 — Todo App
+
+A simple and responsive task management application designed to organize daily tasks and improve productivity.
+
+Tech Stack:
+HTML CSS JavaScript
+
+Repository:
+Todo App
+
+🎯 Current Focus
+learning:
+  - React
+  - MERN Stack
+  - Java
+  - Spring Boot
+  - Python
+  - AI/ML
+
+building:
+  - Full Stack Applications
+  - AI Powered Projects
+  - Machine Learning Applications
+
+exploring:
+  - Artificial Intelligence
+  - Machine Learning
+  - Modern Web Technologies
+  - Backend Development
+
+goal:
+  - Become a skilled Full Stack Developer
+  - Build impactful AI-powered applications
+  - Improve problem-solving and coding skills
+📂 GitHub
+<div align="center"> <a href="https://github.com/fahmeedha12"> <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/> </div>
+🤝 Connect With Me
+<div align="center"> <a href="https://linkedin.com/in/fahmeedhamahaboob12"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:fahmeedhamahaboob8@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/fahmeedha12"> <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<div align="center">
+✨ Keep Building. Keep Learning. Keep Growing.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%92%9C" alt="Footer Animation"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/> </div> ```
